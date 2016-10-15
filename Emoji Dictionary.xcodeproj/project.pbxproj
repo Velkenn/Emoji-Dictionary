@@ -13,6 +13,7 @@
 		DC6E0F851DB16BE300685026 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC6E0F841DB16BE300685026 /* Assets.xcassets */; };
 		DC6E0F881DB16BE300685026 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC6E0F861DB16BE300685026 /* LaunchScreen.storyboard */; };
 		DC6E0F901DB18B2D00685026 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6E0F8F1DB18B2D00685026 /* DefinitionViewController.swift */; };
+		DC6E0F941DB2231200685026 /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC6E0F931DB2231200685026 /* Emoji.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC6E0F871DB16BE300685026 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC6E0F891DB16BE300685026 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC6E0F8F1DB18B2D00685026 /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
+		DC6E0F931DB2231200685026 /* Emoji.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emoji.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DC6E0F7D1DB16BE300685026 /* AppDelegate.swift */,
 				DC6E0F7F1DB16BE300685026 /* ViewController.swift */,
 				DC6E0F8F1DB18B2D00685026 /* DefinitionViewController.swift */,
+				DC6E0F931DB2231200685026 /* Emoji.swift */,
 				DC6E0F811DB16BE300685026 /* Main.storyboard */,
 				DC6E0F841DB16BE300685026 /* Assets.xcassets */,
 				DC6E0F861DB16BE300685026 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC6E0F941DB2231200685026 /* Emoji.swift in Sources */,
 				DC6E0F801DB16BE300685026 /* ViewController.swift in Sources */,
 				DC6E0F901DB18B2D00685026 /* DefinitionViewController.swift in Sources */,
 				DC6E0F7E1DB16BE300685026 /* AppDelegate.swift in Sources */,
